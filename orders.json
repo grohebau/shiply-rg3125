@@ -1,0 +1,47 @@
+{
+  "SE428152770DE": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Lukas Koop, Truchthari Anger 13, 81829 Munich, Germany",
+    "receiver": "Henrik Lindberg, Lindevangsvej 11A, 8240 Risskov, Denmark",
+    "price": "7.200 €",
+    "description": "Manufacturer: Kawasaki<br>Model: Z 1300 KZT 30 AG<br>Chassis number: KZT30A001523<br>First registration: 04/1979<br>Mileage according to previous owner: 22.960 km<br>Power: 74 kW<br>Engine capacity: 1.277 cm³<br>Color: Rot<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included.",
+    "address": "Massoni<br>Randersvej 503<br>8380 Trige<br>Denmark<br>Telefon: +45 20201717, +45 20284319",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "07.05.2026",
+    "deliveryDate": "13.05.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Massoni Aps, Randersvej 503",
+      "postal_code": "8380",
+      "city": "Trige",
+      "country": "Denmark",
+      "lat": "56.241418288664164",
+      "lng": "10.1569795399039"
+    }
+  }
+}
