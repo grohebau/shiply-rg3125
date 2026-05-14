@@ -1,6 +1,6 @@
 {
   "SE428152770DE": {
-    "status": "Waiting for payment",
+    "status": "Preparation for transport",
     "statusClass": "pending",
     "sender": "Lukas Koop, Truchthari Anger 13, 81829 Munich, Germany",
     "receiver": "Henrik Lindberg, Lindevangsvej 11A, 8240 Risskov, Denmark",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "11.05.2026",
-    "deliveryDate": "15.05.2026",
+    "deliveryDate": "19.05.2026, 15:30 Hour",
     "pickup": {
       "street": "",
       "postal_code": "",
